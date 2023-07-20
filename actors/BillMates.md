@@ -8,4 +8,4 @@ Bill Mates, born and raised in a small town, discovered his passion for acting a
 
 Bill Mates' on-screen presence is nothing short of captivating. With an ability to effortlessly immerse himself in diverse roles, he seamlessly transitions from intense dramas to light-hearted comedies. Each character he portrays is brought to life with depth and authenticity, making it hard to believe that they are mere fictional creations. Directors and fellow actors alike praise Bill's professionalism and dedication, often citing his collaborative spirit as a catalyst for elevating the entire production. As the spotlight continues to shine on this rising star, audiences eagerly anticipate each new project, knowing that Bill Mates will never disappoint in delivering cinematic brilliance.
 
-![Bill Mates](image/stars/star2_Bill%20Mates(Game%20of%20Clones).jpg)
+![Bill Mates](/image/stars/star2_Bill%20Mates(Game%20of%20Clones).jpg)

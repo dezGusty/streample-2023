@@ -8,4 +8,4 @@ Off-Broadway, *Kurt* starred in *Dames at Sea*, By Bernstein, and Alias Jimmy Va
   - The 5th Wave 2
   - The Prestige
   
-![Kurt Peterson](image/stars/kurtpeterson2.jpeg)
+![Kurt Peterson](../image/stars/kurtpeterson2.jpeg)

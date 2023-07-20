@@ -13,5 +13,9 @@ Anyone can walk the straight and narrow. Giving up a life of crime? Now that's h
 - Crime
 
 **Cover Photo**
-![Breaking Good](https://github.com/dezGusty/streample-2023/blob/main/breaking_good_CoverPhoto.jpg?raw=true)
+![Breaking Good](https://github.com/dezGusty/streample-2023/blob/main/image/movies_coverphotos/breaking_good_CoverPhoto.jpg)
+
+### To Actors:
+
+ - [Jesse Pinkman](https://github.com/dezGusty/streample-2023/blob/main/actors/JessePinkman.md)
 

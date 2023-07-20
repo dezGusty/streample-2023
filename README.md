@@ -1,5 +1,7 @@
 # Streample - Your Ultimate Streaming Destination
 
+![Logo](.\image\logo.png)
+
 Welcome to Streample, the go-to streaming platform for all your entertainment needs! Streample offers an extensive collection of movies, TV shows, documentaries, and more, providing endless hours of entertainment right at your fingertips.
 
 ## Features

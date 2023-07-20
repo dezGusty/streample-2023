@@ -1,22 +1,23 @@
-# Game of Clones
+ Game of Clones
 
 ![Game of Clones Banner](https://example.com/game-of-clones-banner.jpg)
 
-## Descriere
+## Description
 
-"Game of Clones" este o serie de televiziune epică și plină de acțiune bazată pe seria de cărți "A Song of Ice and Fire" de George R.R. Martin. Seria a fost creată de David Benioff și D.B. Weiss și a fost difuzată inițial pe HBO.
+"Game of Clones" is an epic and action-packed television series based on George R.R. Martin's book series "A Song of Ice and Fire." The show was created by David Benioff and D.B. Weiss and originally aired on HBO.
 
-## Personaje principale
+## Main Characters
 
-- **Jon Snow**: Bastardul Ned Stark, comandantul Cetății Negre.
-- **Daenerys Targaryen**: Stăpâna Dragonilor, a treia din numele său și ultima deținătoare a casei Targaryen.
-- **Tyrion Lannister**: Cel mai mic dintre frații Lannister, cunoscut și sub numele de "Imp".
-- **Arya Stark**: Fiica cea mai tânără a lui Ned Stark, care aspiră să devină un asasin.
-- **Cersei Lannister**: Regina regelui Robert Baratheon, și sora geamănă a lui Jaime Lannister.
+- **Jon Snow**: Bastard son of Ned Stark and Commander of the Night's Watch.
+- **Daenerys Targaryen**: The Mother of Dragons, the third of her name, and the last surviving member of House Targaryen.
+- **Tyrion Lannister**: The youngest of the Lannister siblings, also known as "The Imp."
+- **Arya Stark**: The youngest daughter of Ned Stark, aspiring to become an assassin.
+- **Cersei Lannister**: Queen of King Robert Baratheon, and the twin sister of Jaime Lannister.
 
-## Episoade marcante
+## Memorable Episodes
 
-1. Sezonul 1, Episodul 1 - "Winter Is Coming"
-2. Sezonul 3, Episodul 9 - "The Rains of Castamere"
-3. Sezonul 6, Episodul 10 - "The Winds of Winter"
-4. Sezonul 8, Episodul 6 - "The Iron Throne
+1. Season 1, Episode 1 - "Winter Is Coming"
+2. Season 3, Episode 9 - "The Rains of Castamere"
+3. Season 6, Episode 10 - "The Winds of Winter"
+4. Season 8, Episode 6 - "The Iron Throne"
+

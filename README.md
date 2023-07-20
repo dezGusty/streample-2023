@@ -50,7 +50,7 @@ Experience the ultimate streaming adventure with Streample. Subscribe now and un
 
 Note: This README is a fictional document created for the purpose of demonstrating the Markdown format for a streaming platform named Streample. Any resemblance to actual streaming services is purely coincidental.
 
-# Link to MovieIndex
+# Link to MovieIndex 
 [Link](https://github.com/dezGusty/streample-2023/blob/main/MovieIndex.md)
 
 # Link to Stars

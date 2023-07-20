@@ -14,5 +14,5 @@ Sci-fi, Action, Thriller, Adventure
 - ![Kurt Peterson](../actors/KurtPeterson.md)
  
 
-**Cover Photo**
+## Cover Photo
 ![Breaking Good](../image/movies_coverphotos/galaxy_wars_CoverPhoto.jpg)

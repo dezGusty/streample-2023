@@ -11,3 +11,5 @@ Whether he's playing a troubled detective in a gritty crime thriller, a romantic
 Off-screen, James is known for his philanthropic efforts, actively supporting various charitable organizations and causes close to his heart. He is a down-to-earth individual who values family and friends, often spending his free time engaging in outdoor activities, cooking, and enjoying time with loved ones.
 
 As a highly sought-after actor in the entertainment industry, James Smits continues to leave an indelible mark on the world of cinema, inspiring aspiring actors and captivating audiences with his extraordinary talent, charm, and dedication to his craft.
+
+![James Smits](/image/stars/star1%20(Game%20of%20Clones).jpg)

@@ -15,3 +15,8 @@ After getting frustrated with a drawing by The *Phantom Menace* production desig
 ## Portrayal
 
 Darth Maul was portrayed by actor and martial artist Ray Park in *Star Wars: Episode I – The Phantom Menace* and *Solo: A Star Wars Story*.Peter Serafinowicz provided the character's voice in The Phantom Menace.
+
+# Actors
+
+- [Jesse Pinkman](/actors/JamesSmits.md)
+- [Kurt Peterson](/actors/KurtPeterson.md)

@@ -1,6 +1,6 @@
-## James Smits
+# James Smits
 
-# Description
+## Description
 
 * James Smits is a charismatic and versatile fictitious actor who has captivated audiences worldwide with his incredible talent and on-screen presence. Born and raised in a small town, James discovered his passion for acting at a young age, participating in local theater productions and school plays.
 

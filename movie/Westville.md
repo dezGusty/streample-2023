@@ -28,7 +28,7 @@ The film is directed by a talented and seasoned filmmaker known for handling int
 
 "Westville" promises to be an intense and thought-provoking movie, combining stellar performances from James Smits, Bill Mates, and Jim Caviezel with a riveting plot that will keep the audience guessing until the very end.
 
-### To actors:
+### To actors :
  - [Bill Mates](https://github.com/dezGusty/streample-2023/blob/main/actors/BillMates.md)
  - [James Smits](https://github.com/dezGusty/streample-2023/blob/main/actors/JamesSmits.md)
  - [Jim Caviezel](https://github.com/dezGusty/streample-2023/blob/main/actors/JimCaviezel.md)

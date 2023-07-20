@@ -1,4 +1,4 @@
-#Story line
+# Story line
 
 In the small, quirky town of Millbrook, where everyone knows everyone else's business, strange things are afoot. Meet Mike Byers, the mild-mannered owner of the town's retro video rental store, who often finds himself caught up in peculiar occurrences. He lives a simple life, enjoying classic movies and spending time with his close-knit group of friends.
 
@@ -17,7 +17,6 @@ As the pilot comes to a close, the group realizes that the VHS tape is not just 
 "Stranger Tidings" is a comedic adventure that blends elements of science fiction, mystery, and nostalgia. With each episode, the gang faces new challenges and uncovers even stranger tidings while learning the true value of friendship, trust, and embracing the unexpected.
 
 **Genre**
-
 Horror
 Romance
 

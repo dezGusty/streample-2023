@@ -5,3 +5,5 @@ Jesse Bruce Pinkman, also known by his clandestine pseudonym and business monike
 ## Favorite quote
 
 I am not turning down the money! I'm turning down you! You get it?! I want nothing to do with you! Ever since I met you, everything I ever cared about is gone! Ruined, turned to shit, dead, ever since since I hooked up with the great Heisenberg! I have never been more alone! I have nothing! No one! Alright it's all gone! Get it? No, no no, why? Why would you get it? What do you even care, as long as you get what you want, right? You don't give a shit about me! You said I was no good. I'm nothing! Why would you want me, huh? You said my meth is inferior, right? Right? Hey! You said my cook was garbage! Hey, screw you, man! Screw you!
+
+![Jesse Pinkman](../image/stars/jessepinkman.jpeg)

@@ -8,7 +8,7 @@ An interstellar quest to safeguard the universe from a powerful artifact's chaos
 
 Sci-fi, Action, Thriller, Adventure
 
-##Actors
+## Actors
 - ![Will Addams](../actors/WillAddams.md)
 - ![Bill Mates](../actors/BillMates.md)
 - ![Kurt Peterson](../actors/KurtPeterson.md)
